@@ -25,7 +25,7 @@ export const Hero = () => {
         </div>
       </section>
 
-      <section className="container pb-14 text-center mt-16">
+      <section className="container pb-14 text-center mt-28">
         <h3>
           &copy; 2024 Feito com carinho por{" "}
           <a
